@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toko Sepatu</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="deskription_menu">menu</string>
+    <string name="price" />
+    <string name="Harga_Cenil">harga</string>
+    <string name="Resep">description</string>
+    <string name="ingredients">bahan</string>
+</resources>
